@@ -1,0 +1,167 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jimena",
+      "surnames": "Escobar Bermúdez",
+      "title": "Full Stack Developer, Python passionate, Speaker, Mentor and DEI",
+      "description": "I am a happy and proud woman to have become an engineer, so I love technical challenges.\n\nAt one point in my life, my environment pushes me towards design, UI and UX. I learned a lot, but my passion is code, and I enjoy designing architecture.\n\nOne of my strengths is communication, so I have been a web development teacher for people seeking a career change. I also mentor anyone who needs help, and I actively participate in the community either as a speaker, organizing events or as an active member of Python Spain and PyLadies.\n\nI have several publications in media talking about the importance of learning to code and the need for diversity in the industry.\n\nIf I had to summarize my role in one sentence, it would be \"Full Stack developer working on diversity, equity and inclusion (DEI) from a technical perspective and happy to be part of the community\".",
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jimena-eb/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/JimenaEB"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Jimena_y_yo"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Catalan"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scrapy",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jimena-eb/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
