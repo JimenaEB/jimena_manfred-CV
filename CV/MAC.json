@@ -10,6 +10,10 @@
       "surnames": "Escobar Bermúdez",
       "title": "Full Stack Developer, Python passionate, Speaker, Mentor and DEI",
       "description": "I am a happy and proud woman to have become an engineer, so I love technical challenges.\n\nAt one point in my life, my environment pushes me towards design, UI and UX. I learned a lot, but my passion is code, and I enjoy designing architecture.\n\nOne of my strengths is communication, so I have been a web development teacher for people seeking a career change. I also mentor anyone who needs help, and I actively participate in the community either as a speaker, organizing events or as an active member of Python Spain and PyLadies.\n\nI have several publications in media talking about the importance of learning to code and the need for diversity in the industry.\n\nIf I had to summarize my role in one sentence, it would be \"Full Stack developer working on diversity, equity and inclusion (DEI) from a technical perspective and happy to be part of the community\".",
+      "avatar": {
+        "alt": "VideoCapture_20220331-213509.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/6edfdb6f-e010-4643-8959-a7cc0f4d1c51_videocapture_2022033.jpg"
+      },
       "location": {
         "notes": "Madrid"
       }
@@ -26,6 +30,24 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/Jimena_y_yo"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My babies are Debian🐶 and Alpine🐰",
+        "fact": "I'm the mum of two adopted animals, a dog and a bunny.\nAs a fun fact, every time I rescue an animal, I give it an OS name."
+      },
+      {
+        "topic": "Vegan💚",
+        "fact": "I'm a prideful vegan that helps animal rescue organizations and animals sanctuaries"
+      },
+      {
+        "topic": "Potter🏺",
+        "fact": "Not like Harry Potter (but hopefully).\nI enjoy creating things with clay and decorating it."
+      },
+      {
+        "topic": "Geek🖖",
+        "fact": "I enjoy video games, superheroes sagas, SciFi and Fantasy movies."
       }
     ]
   },
