@@ -15,52 +15,58 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/6edfdb6f-e010-4643-8959-a7cc0f4d1c51_videocapture_2022033.jpg"
       },
       "location": {
-        "notes": "Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jimena-eb/"
-      },
       {
         "type": "github",
         "URL": "https://github.com/JimenaEB"
       },
       {
+        "type": "other",
+        "URL": "https://jimenaeb.notion.site/Jimena-Berm-dez-db28ec23bcab45afb9f5d5efdd7a9e59"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/Jimena_y_yo"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jimena-eb/"
       }
     ],
     "interestingFacts": [
       {
-        "topic": "My babies are Debian🐶 and Alpine🐰",
-        "fact": "I'm the mum of two adopted animals, a dog and a bunny.\nAs a fun fact, every time I rescue an animal, I give it an OS name."
+        "topic": "Geek🖖",
+        "fact": "I enjoy video games, superheroes sagas, SciFi and Fantasy movies."
       },
       {
         "topic": "Vegan💚",
         "fact": "I'm a prideful vegan that helps animal rescue organizations and animals sanctuaries"
       },
       {
-        "topic": "Potter🏺",
-        "fact": "Not like Harry Potter (but hopefully).\nI enjoy creating things with clay and decorating it."
+        "topic": "My babies are Debian🐶 and Alpine🐰",
+        "fact": "I'm the mum of two adopted animals, a dog and a bunny.\nAs a fun fact, every time I rescue an animal, I give it an OS name."
       },
       {
-        "topic": "Geek🖖",
-        "fact": "I enjoy video games, superheroes sagas, SciFi and Fantasy movies."
+        "topic": "Potter🏺",
+        "fact": "Not like Harry Potter (but hopefully).\nI enjoy creating things with clay and decorating it."
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "Catalan"
       },
       {
         "name": "English"
       },
       {
-        "name": "Catalan"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -72,7 +78,7 @@
       },
       {
         "skill": {
-          "name": "Django",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -84,25 +90,7 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -114,19 +102,19 @@
       },
       {
         "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Ansible",
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
           "type": "technology"
         }
       },
@@ -138,13 +126,31 @@
       },
       {
         "skill": {
-          "name": "Grafana",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Scrapy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
           "type": "technology"
         }
       }
@@ -162,25 +168,25 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
           "name": "AWS",
           "type": "technology"
         },
         {
           "name": "Docker",
           "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
         {
-          "name": "PHP",
+          "name": "JAVA",
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "PHP",
           "type": "technology"
         }
       ]
