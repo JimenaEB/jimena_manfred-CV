@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Jimena",
       "surnames": "Escobar Bermúdez",
       "title": "Full Stack Developer, Python passionate, Speaker, Mentor and DEI",
-      "description": "I am a happy and proud woman to have become an engineer, so I love technical challenges.\n\nAt one point in my life, my environment pushes me towards design, UI and UX. I learned a lot, but my passion is code, and I enjoy designing architecture.\n\nOne of my strengths is communication, so I have been a web development teacher for people seeking a career change. I also mentor anyone who needs help, and I actively participate in the community either as a speaker, organizing events or as an active member of Python Spain and PyLadies.\n\nI have several publications in media talking about the importance of learning to code and the need for diversity in the industry.\n\nIf I had to summarize my role in one sentence, it would be \"Full Stack developer working on diversity, equity and inclusion (DEI) from a technical perspective and happy to be part of the community\".",
+      "description": "",
       "avatar": {
         "alt": "VideoCapture_20220331-213509.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/6edfdb6f-e010-4643-8959-a7cc0f4d1c51_videocapture_2022033.jpg"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -60,13 +61,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -189,7 +193,15 @@
           "name": "PHP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Developer Evangelist & Advocate",
+        "Full-stack Developer",
+        "Software Architect",
+        "Tech Lead"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
