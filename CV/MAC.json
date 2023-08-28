@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,36 +9,18 @@
       "name": "Jimena",
       "surnames": "Escobar Bermúdez",
       "title": "Full Stack Developer, Python passionate, Speaker, Mentor and DEI",
-      "description": "",
+      "description": "I am a happy and proud woman to have become an engineer, so I love technical challenges.\n\nAt one point in my life, my environment pushes me towards design, UI and UX. I learned a lot, but my passion is code, and I enjoy designing architecture.\n\nOne of my strengths is communication, so I have been a web development teacher for people seeking a career change. I also mentor anyone who needs help, and I actively participate in the community either as a speaker, organizing events or as an active member of Python Spain and PyLadies.\n\nI have several publications in media talking about the importance of learning to code and the need for diversity in the industry.\n\nIf I had to summarize my role in one sentence, it would be \"Full Stack developer working on diversity, equity and inclusion (DEI) from a technical perspective and happy to be part of the community\".",
       "avatar": {
-        "alt": "VideoCapture_20220331-213509.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/6edfdb6f-e010-4643-8959-a7cc0f4d1c51_videocapture_2022033.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/6edfdb6f-e010-4643-8959-a7cc0f4d1c51_videocapture_2022033.jpg",
+        "alt": "VideoCapture_20220331-213509.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/JimenaEB"
-      },
-      {
-        "type": "other",
-        "URL": "https://jimenaeb.notion.site/Jimena-Berm-dez-db28ec23bcab45afb9f5d5efdd7a9e59"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/Jimena_y_yo"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jimena-eb/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Geek🖖",
@@ -56,24 +38,96 @@
         "topic": "Potter🏺",
         "fact": "Not like Harry Potter (but hopefully).\nI enjoy creating things with clay and decorating it."
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://jimenaeb.notion.site/Jimena-Berm-dez-db28ec23bcab45afb9f5d5efdd7a9e59"
+      }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
         "level": "Limited working proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Python",
@@ -88,74 +142,28 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Django",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Flask",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Scrapy",
           "type": "technology"
         }
-      },
+      }
+    ],
+    "softSkills": [
       {
         "skill": {
-          "name": "Ansible",
-          "type": "technology"
+          "name": "Creative thinking",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Grafana",
-          "type": "technology"
+          "name": "Emotional intelligence",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Linux",
-          "type": "technology"
+          "name": "Mentoring ability",
+          "type": "practice"
         }
       }
     ]
@@ -164,8 +172,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jimena-eb/"
+          "URL": "https://www.linkedin.com/in/jimena-eb/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/JimenaEB",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/Jimena_y_yo",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "jime.ebermudez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "662583637",
+          "countryCode": "+34"
         }
       ]
     },
@@ -202,6 +227,10 @@
         "Tech Lead"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My ideal job would be one that would offer me technical challenges and allow me to develop my career remotely and flexible. \nA job where I could take the initiative and collaborate with other technical and non-technical areas to improve communication and happiness in the company.\n\nSomething important to me is that the company has diversity initiatives, is transparent and thinks about people and their mental health.\n\nOpen-source companies or companies with a budget to go to events are a plus.",
+    "goodPractices": "- I love Python programming, so my code always is pythonic and follows PEP8 rules.\n- As a mentor and developer, I use Pull Requests for feedback and to help improve my students' and coworkers' code, and of course, the comments in my Pull Requests help me improve my skills.\n- Tests are a must always.\n- I really enjoy the DevOps philosophy and I think is the best way to work."
   }
 }
