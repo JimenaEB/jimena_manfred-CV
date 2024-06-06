@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -41,6 +41,18 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jimena-eb/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/JimenaEB"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Jimena_y_yo"
+      },
+      {
         "type": "other",
         "URL": "https://jimenaeb.notion.site/Jimena-Berm-dez-db28ec23bcab45afb9f5d5efdd7a9e59"
       }
@@ -50,14 +62,17 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Limited working proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
@@ -65,12 +80,6 @@
       {
         "skill": {
           "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ansible",
           "type": "technology"
         }
       },
@@ -100,49 +109,13 @@
       },
       {
         "skill": {
-          "name": "Grafana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
+          "name": "Pytest",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scrapy",
           "type": "technology"
         }
       }
@@ -186,12 +159,6 @@
       ],
       "contactMails": [
         "jime.ebermudez@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "662583637",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -211,7 +178,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -230,6 +197,24 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Django",
+        "type": "technology"
+      },
+      {
+        "name": "Flask",
+        "type": "technology"
+      },
+      {
+        "name": "Pytest",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "My ideal job would be one that would offer me technical challenges and allow me to develop my career remotely and flexible. \nA job where I could take the initiative and collaborate with other technical and non-technical areas to improve communication and happiness in the company.\n\nSomething important to me is that the company has diversity initiatives, is transparent and thinks about people and their mental health.\n\nOpen-source companies or companies with a budget to go to events are a plus.",
     "goodPractices": "- I love Python programming, so my code always is pythonic and follows PEP8 rules.\n- As a mentor and developer, I use Pull Requests for feedback and to help improve my students' and coworkers' code, and of course, the comments in my Pull Requests help me improve my skills.\n- Tests are a must always.\n- I really enjoy the DevOps philosophy and I think is the best way to work."
   }
