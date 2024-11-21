@@ -169,6 +169,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Developer Evangelist & Advocate",
