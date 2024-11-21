@@ -163,6 +163,10 @@
         {
           "name": "Python",
           "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
