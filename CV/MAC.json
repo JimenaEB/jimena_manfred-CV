@@ -161,19 +161,11 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Docker",
-          "type": "technology"
-        },
-        {
           "name": "Python",
           "type": "technology"
         }
       ],
       "discardedCompetences": [
-        {
-          "name": "Java",
-          "type": "technology"
-        },
         {
           "name": "PHP",
           "type": "technology"
