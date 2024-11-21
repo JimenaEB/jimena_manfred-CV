@@ -208,7 +208,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "My ideal job would be one that would offer me technical challenges and allow me to develop my career remotely and flexible. \nA job where I could take the initiative and collaborate with other technical and non-technical areas to improve communication and happiness in the company.\n\nSomething important to me is that the company has diversity initiatives, is transparent and thinks about people and their mental health.\n\nOpen-source companies or companies with a budget to go to events are a plus.",
+    "desiredJobDescription": "My ideal job would be one that would offer me technical challenges and allow me to develop my career remotely and flexibly. \nA job where I could take the initiative and collaborate with other technical and non-technical areas to improve communication and diversity in the company.\n\nSomething important to me is that the company has diversity initiatives, is transparent and thinks about people.\n\nOpen-source companies or companies with a budget to go to events are a plus.",
     "goodPractices": "- I love Python programming, so my code always is pythonic and follows PEP8 rules.\n- As a mentor and developer, I use Pull Requests for feedback and to help improve my students' and coworkers' code, and of course, the comments in my Pull Requests help me improve my skills.\n- Tests are a must always.\n- I really enjoy the DevOps philosophy and I think is the best way to work."
   }
 }
