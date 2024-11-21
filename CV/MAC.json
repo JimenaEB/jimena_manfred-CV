@@ -161,10 +161,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "AWS",
-          "type": "technology"
-        },
-        {
           "name": "Docker",
           "type": "technology"
         },
